@@ -198,8 +198,9 @@ Este portafolio no está orientado únicamente a empleabilidad, sino a la constr
 
 ## Contacto
 
-[diego.munoz@email.com](mailto:diego.munoz@email.com)
+[diegomunozlasanta@gmail.com](mailto:diegomunozlasanta@gmail.com)
 https://www.linkedin.com/in/diego-munoz-lasanta-b6995a47/
+Github: https://github.com/Auditor2003
 
 ---
 
